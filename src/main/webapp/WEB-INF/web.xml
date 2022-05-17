@@ -17,7 +17,7 @@
 	</listener>
 
 	<listener>
-		<listener-class>com.academy.study.listner.AppListner</listener-class>
+		<listener-class>com.academy.study.listner.AppListener</listener-class>
 	</listener>
 
 	<!-- Processes application requests -->

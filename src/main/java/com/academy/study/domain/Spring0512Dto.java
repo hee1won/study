@@ -16,4 +16,5 @@ public class Spring0512Dto {
 	private String title;
 	private String body;
 	private LocalDateTime inserted;
+	private int numOfReply;
 }
